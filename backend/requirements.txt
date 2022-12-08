@@ -1,0 +1,14 @@
+requests
+uvicorn[standard]
+fastapi_utils
+sqlalchemy
+python-dateutil
+fastapi
+pytest
+fastapi-sqlalchemy
+pydantic 
+alembic 
+psycopg2 
+python-dotenv
+gunicorn
+httpx
